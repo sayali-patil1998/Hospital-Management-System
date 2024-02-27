@@ -36,4 +36,24 @@ Simulates payment with options for cash, UPI, or NetBanking.
 
 Main class where program execution begins.
 Implements a simple login system.
-Allows users to manage patients, doctors, staff, bed occupancy, billing, and payments.</li>
+Allows users to manage patients, doctors, staff, bed occupancy, billing, and payments.</li></ol>
+
+#Usage:
+<ol type="1">
+<li>Run the program (Hospital_Management.java).</li>
+<li>Log in with the predefined username (Itp@123) and password (Tech@123).</li>
+<li>Follow the menu to perform various actions within the hospital management system.</li>
+</ol>
+#Note:
+<ul>
+  <li>Uses multithreading for concurrent actions (patient and staff submissions).</li>
+  <li>Includes basic error handling for user inputs.</li>
+  <li>Billing and payment sections implemented as separate threads for asynchronous activities.</li>
+</ul>
+Feel free to explore and modify the code to suit your needs!
+#How to Run:
+# Compile the program
+javac Hospital_Management.java
+
+# Run the compiled program
+java Hospital_Management
