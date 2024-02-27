@@ -44,6 +44,7 @@ Allows users to manage patients, doctors, staff, bed occupancy, billing, and pay
 <li>Log in with the predefined username (Itp@123) and password (Tech@123).</li>
 <li>Follow the menu to perform various actions within the hospital management system.</li>
 </ol>
+
 ## Note:
 <ul>
   <li>Uses multithreading for concurrent actions (patient and staff submissions).</li>
