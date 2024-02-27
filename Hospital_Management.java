@@ -347,7 +347,7 @@ class Payment extends Thread {
 // }
 // }
 
-public class demo {
+public class Hospital_Management {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
