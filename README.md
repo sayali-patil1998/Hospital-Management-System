@@ -1,6 +1,6 @@
-# Hospital-Management-System
+## Hospital-Management-System
 This Java-based Hospital Management System simulates basic functionalities for managing patients, doctors, staff, bed occupancy, billing, and payments. The project is organized into multiple classes, each handling a specific aspect of hospital management.
-# Classes:
+## Classes:
 <ol type="1"ul>
 <li><b>Patient:</b>
 
@@ -38,13 +38,13 @@ Main class where program execution begins.
 Implements a simple login system.
 Allows users to manage patients, doctors, staff, bed occupancy, billing, and payments.</li></ol>
 
-#Usage:
+## Usage:
 <ol type="1">
 <li>Run the program (Hospital_Management.java).</li>
 <li>Log in with the predefined username (Itp@123) and password (Tech@123).</li>
 <li>Follow the menu to perform various actions within the hospital management system.</li>
 </ol>
-#Note:
+## Note:
 <ul>
   <li>Uses multithreading for concurrent actions (patient and staff submissions).</li>
   <li>Includes basic error handling for user inputs.</li>
@@ -52,7 +52,9 @@ Allows users to manage patients, doctors, staff, bed occupancy, billing, and pay
 </ul>
 Feel free to explore and modify the code to suit your needs!
 
-# How to Run:
+## How to Run:
+
+```bash
 #Compile the program
 javac Hospital_Management.java
 
