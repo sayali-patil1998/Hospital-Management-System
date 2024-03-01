@@ -1,5 +1,5 @@
 ## Hospital-Management-System
-This Java-based Hospital Management System simulates basic functionalities for managing patients, doctors, staff, bed occupancy, billing, and payments. The project is organized into multiple classes, each handling a specific aspect of hospital management.
+This is Java-based Hospital Management System simulates basic functionalities for managing patients, doctors, staff, bed occupancy, billing, and payments. The project is organized into multiple classes, each handling a specific aspect of hospital management.
 ## Classes:
 <ol type="1"ul>
 <li><b>Patient:</b>
